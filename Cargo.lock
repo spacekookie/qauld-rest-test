@@ -140,7 +140,7 @@ dependencies = [
 
 [[package]]
 name = "libqaul"
-version = "0.1.0"
+version = "0.0.0"
 dependencies = [
  "bindgen 0.32.3 (registry+https://github.com/rust-lang/crates.io-index)",
  "cmake 0.1.29 (registry+https://github.com/rust-lang/crates.io-index)",
@@ -203,7 +203,7 @@ dependencies = [
 name = "qauld2"
 version = "0.1.0"
 dependencies = [
- "libqaul 0.1.0",
+ "libqaul 0.0.0",
 ]
 
 [[package]]
